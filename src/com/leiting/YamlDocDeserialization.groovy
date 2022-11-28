@@ -1,6 +1,6 @@
-package com.leiting
+// package com.leiting
 
-@Grab('org.yaml:snakeyaml:1.24')
+// @Grab('org.yaml:snakeyaml:1.24')
 
-import java.nio.file.Paths
+// import java.nio.file.Paths
 
